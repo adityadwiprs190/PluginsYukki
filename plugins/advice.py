@@ -1,6 +1,6 @@
 from pyrogram import filters
 from TheApi import api
-from ChiefMusic import app
+from Music_indo import app
 
 
 @app.on_message(filters.command("advice"))
